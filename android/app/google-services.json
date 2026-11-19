@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418460465519",
+    "project_id": "agrismart-iset-1a4ae",
+    "storage_bucket": "agrismart-iset-1a4ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418460465519:android:85efb1320ab03fb74e109a",
+        "android_client_info": {
+          "package_name": "com.iset.agrismart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5yJSie7NJx2NfzuM2GxfKjf-5n0ngTRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
